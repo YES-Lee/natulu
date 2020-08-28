@@ -1,0 +1,7 @@
+__TEST__
+src
+rollup.config.js
+tsconfig.json
+yarn.lock
+yarn-error.log
+package-lock.json
